@@ -23,7 +23,7 @@ Spring framework의 핵심은 **IoC(Inversion of Control), DI(Dependency Injecti
 
 ## Spring Framework의 기본 컨셉을 준수하면 좋은 객체지향프로그래밍을 달성할 수 있다.
 
-다음번엔 그럼 좋은 객체지향프로그래밍이 뭔지 알아보자~
+다음번엔 좋은 객체지향프로그래밍이 뭔지 알아보자~
 
 ### 참고 자료  
 [Spring Framework - Wikipedia](https://en.wikipedia.org/wiki/Spring_Framework).  
