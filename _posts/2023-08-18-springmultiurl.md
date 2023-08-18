@@ -1,7 +1,6 @@
 ---
 title: "[Spring] 단일 URL에 다양한 값 받기"
-date: 2023-01-12
-categories: Spring
+date: 2023-08-18
 ---
 
 # [Spring] 단일 URL에서 여러 모델 처리
