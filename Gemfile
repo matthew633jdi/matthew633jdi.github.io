@@ -1,2 +1,17 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll", ">=3.8.6"
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-redirect-from"
+  gem "jekyll-seo-tag", "~> 2.6.1"
+end
+
+group :test do
+  gem "html-proofer"
+end
+
+gem 'tzinfo'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]

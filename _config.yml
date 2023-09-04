@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "matthew633jdi"
-  avatar           : "/assets/images/profile/matthew633.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile/matthew633.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**성취가 모여 성공이 된다.**<br>꾸준한 노력으로 성취하고 목표를 달성하라."
   location         : "Republic of Korea"
   email            :
