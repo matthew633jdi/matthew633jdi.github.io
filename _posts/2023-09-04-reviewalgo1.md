@@ -5,7 +5,7 @@ excerpt: "내가 쓰려고 만드는 R.A.(Review Algorithm) 프로젝트 초기 
 categories:
   - Toy
 tags:
-    - [R.A., Requirements Analysis]
+    - [R.A.]
 
 toc: true
 toc_sticky: true

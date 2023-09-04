@@ -1,6 +1,8 @@
 ---
 title: "[Spring] 단일 URL에서 여러 모델 처리"
 date: 2023-08-18
+categories:
+  - SpringMVC
 ---
 
 Spring REST Docs 작업을 진행 중 Spring Security의 Acess Token에 대한 API 명세를 작성 중 겪은 이슈

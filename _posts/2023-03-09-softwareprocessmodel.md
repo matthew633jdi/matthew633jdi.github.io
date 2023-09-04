@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "소프트웨어 개발 프로세스"
+categories:  
+  - CS
 ---
 
 ## 정의

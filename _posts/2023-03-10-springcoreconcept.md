@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "Spring 왜 씀??"
+categories:
+  - Spring 
 ---
 
 처음 `Spring`을 접한 건 2015년 대학원에서였다. ~~당시 Java Enterprise 개발을 위해서 요즘 떠오르는 기술이라 도입해서 사용하고 지금까지 쓰고 있다.~~ 
