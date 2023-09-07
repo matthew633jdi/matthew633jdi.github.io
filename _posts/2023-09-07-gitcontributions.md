@@ -1,6 +1,6 @@
 ---
-title: [Git] github contributions
-excerpt: 일명 잔디 심기 중 잔디가 안 심기는 이유
+title: "[Git] github contributions"
+excerpt: "일명 잔디 심기 중 잔디가 안 심기는 이유"
 
 categories:
   - VCS
