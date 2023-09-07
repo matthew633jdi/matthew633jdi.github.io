@@ -23,10 +23,10 @@ name                     : "matthew633jdi"
 description              : "성공한 삶의 가장 큰 비밀은 목표를 정하고 성취해내는 것이다. - Henry Ford"
 url                      : "https://matthew633jdi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "matthew633jdi/matthew633jdi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "matthew633jdi/matthew633jdi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
-masthead_title           : "목표를 정하고 성취하는 사람" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Step-up System"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "matthew633jdi"
   avatar           : "/images/profile/matthew633.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**성취가 모여 성공이 된다.**<br>꾸준한 노력으로 성취하고 목표를 달성하라."
+  bio              : "성장을 위한 **시스템**을 만들자. <br> 시스템의 **과정**을 즐기자."
   location         : "Republic of Korea"
   email            :
   links:
