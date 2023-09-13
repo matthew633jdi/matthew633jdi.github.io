@@ -16,7 +16,7 @@ date: 2023-09-11
 # Factory Method
 
 ![출처 : https://refactoring.guru](https://refactoring.guru/images/patterns/content/factory-method/factory-method-en.png?id=cfa26f33dc8473e803fadae0d262100a)
-
+그림 출처 : https://refactoring.guru
 ## 목적
 - super class에서 객체를 생성하기 위한 인터페이스 제공
 - sub class가 생성될 객체의 유형을 변경할 수 있도록 허용
@@ -33,7 +33,7 @@ Ex
 ### Structure
 
 ![출처 : https://refactoring.guru/](https://refactoring.guru/images/patterns/diagrams/factory-method/structure.png?id=4cba0803f42517cfe8548c9bc7dc4c9b)
-
+그림 출처 : https://refactoring.guru
 - Creator
   - 최상위 팩토리 클래스
 - ConcreteCreator
